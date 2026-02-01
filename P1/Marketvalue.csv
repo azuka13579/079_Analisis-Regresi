@@ -1,0 +1,76 @@
+no,nama,posisi,usia,market value,klub,negara,tingggi,kontrak berakhir,penampilan,gol,asis,menit bermain,penampilan tim nasional,gol tim nasional,sisa bulan
+1,Erling Haaland,Depan-Tengah,25,"Rp3.476,33Mlyr.",Manchester City,Norwegia,195,6/30/2034,33,27,4,2676,48,55,100
+2,Bukayo Saka,Sayap Kanan,24,"Rp2.259,61Mlyr.",Arsenal,Inggris,178,6/30/2027,31,7,7,2118,48,14,16
+3,Alexander Isak,Depan-Tengah,26,"Rp2.085,80Mlyr.",Liverpool,Swedia,192,6/30/2031,16,3,1,781,56,16,64
+4,Hugo Ekitiké,Depan-Tengah,23,"Rp1.477,44Mlyr.",Liverpool,Prancis,190,6/30/2031,31,13,4,1951,6,1,64
+5,Estêvão,Sayap Kanan,18,"Rp1.390,53Mlyr.",Chelsea,Brasil,176,6/30/2033,29,6,3,1312,11,5,88
+6,Bryan Mbeumo,Sayap Kanan,26,"Rp1.303,62Mlyr.",Manchester United,Kamerun,171,6/30/2030,19,9,1,1591,32,7,52
+7,Viktor Gyökeres,Depan-Tengah,27,"Rp1.216,71Mlyr.",Arsenal,Swedia,189,6/30/2030,29,10,2,1879,30,15,52
+8,Cody Gakpo,Sayap Kiri,26,"Rp1.216,71Mlyr.",Liverpool,Belanda,193,6/30/2030,30,7,4,2059,46,19,52
+9,Nick Woltemade,Depan-Tengah,23,"Rp1.216,71Mlyr.",Newcastle,Jerman,198,7/1/2031,36,10,4,2318,8,4,65
+10,Matheus Cunha,Depan-Tengah,26,"Rp1.216,71Mlyr.",Manchester United,Brasil,183,6/30/2030,22,5,2,1595,19,1,52
+11,Omar Marmoush,Depan-Tengah,26,"Rp1.129,81Mlyr.",Manchester City,Mesir,183,6/30/2029,18,2,1,550,46,10,40
+12,Jérémy Doku,Sayap Kiri,23,"Rp1.129,81Mlyr.",Manchester City,Belgia,173,6/30/2028,30,3,11,1831,39,7,28
+13,Antoine Semenyo,Sayap Kanan,26,"Rp1.129,81Mlyr.",Manchester City,Ghana,185,6/30/2031,25,13,4,2179,32,3,64
+14,João Pedro,Depan-Tengah,24,"Rp1.129,81Mlyr.",Chelsea,Brasil,182,6/30/2033,31,11,4,2206,6,0,88
+15,Pedro Neto,Sayap Kanan,25,"Rp1.042,90Mlyr.",Chelsea,Portugal,174,6/30/2031,34,7,4,2398,21,2,64
+16,Anthony Gordon,Sayap Kiri,24,"Rp1.042,90Mlyr.",Newcastle,Inggris,183,7/1/2031,31,9,4,1895,16,2,65
+17,Benjamin Sesko,Depan-Tengah,22,"Rp1.042,90Mlyr.",Manchester United,Slovenia,195,6/30/2030,20,5,1,1231,45,16,52
+18,Kai Havertz,Depan-Tengah,26,"Rp955,99Mlyr.",Arsenal,Jerman,193,6/30/2028,4,1,1,104,55,20,28
+19,Mohammed Kudus,Sayap Kanan,25,"Rp955,99Mlyr.",Spurs,Ghana,177,6/30/2031,26,3,6,1921,46,13,64
+20,Noni Madueke,Sayap Kanan,23,"Rp869,08Mlyr.",Arsenal,Inggris,182,6/30/2030,20,3,2,1041,9,1,52
+21,Anthony Elanga,Sayap Kanan,23,"Rp869,08Mlyr.",Newcastle,Swedia,178,7/1/2031,30,0,2,1192,26,5,65
+22,Amad Diallo,Sayap Kanan,23,"Rp869,08Mlyr.",Manchester United,Pantai Gading,173,6/30/2030,18,2,3,1466,16,5,52
+23,Gabriel Martinelli,Sayap Kiri,24,"Rp782,17Mlyr.",Arsenal,Brasil,178,6/30/2027,28,10,1,1178,20,3,16
+24,Iliman Ndiaye,Sayap Kanan,25,"Rp782,17Mlyr.",Everton,Senegal,180,6/30/2029,19,4,2,1484,38,4,40
+25,Savinho,Sayap Kiri,21,"Rp782,17Mlyr.",Manchester City,Brasil,176,6/30/2031,23,2,3,1032,13,1,64
+26,Alejandro Garnacho,Sayap Kiri,21,"Rp782,17Mlyr.",Chelsea,Argentina,180,6/30/2032,25,6,3,1345,8,0,76
+27,Jørgen Strand Larsen,Depan-Tengah,25,"Rp695,27Mlyr.",Wolves,Norwegia,193,6/30/2030,25,6,2,1565,24,4,52
+28,Jamie Gittens,Sayap Kiri,21,"Rp695,27Mlyr.",Chelsea,Inggris,178,6/30/2032,26,1,5,1076,16,2,76
+29,Dan Ndoye,Sayap Kanan,25,"Rp695,27Mlyr.",Nottingham Forest,Swiss,184,6/30/2030,25,2,2,1613,27,5,52
+30,Jean-Philippe Mateta,Depan-Tengah,28,"Rp695,27Mlyr.",Crystal Palace,Prancis,192,6/30/2027,34,10,2,2707,3,2,16
+31,Evanilson,Depan-Tengah,26,"Rp695,27Mlyr.",Bournemouth,Brasil,183,6/30/2029,23,5,2,1712,2,0,40
+32,Yankuba Minteh,Sayap Kanan,21,"Rp695,27Mlyr.",Brighton,Gambia,180,6/30/2029,22,1,4,1607,19,7,40
+33,Dominic Solanke,Depan-Tengah,28,"Rp608,36Mlyr.",Spurs,Inggris,186,6/30/2030,8,2,0,261,3,0,52
+34,Jarrod Bowen,Sayap Kanan,29,"Rp608,36Mlyr.",West Ham,Inggris,176,6/30/2030,25,7,3,2280,20,1,52
+35,Liam Delap,Depan-Tengah,22,"Rp608,36Mlyr.",Chelsea,Inggris,186,6/30/2031,19,2,1,791,12,3,64
+36,Yoane Wissa,Depan-Tengah,29,"Rp608,36Mlyr.",Newcastle,Kongo,176,7/1/2029,15,3,1,622,35,8,41
+37,Ismaïla Sarr,Sayap Kanan,27,"Rp608,36Mlyr.",Crystal Palace,Senegal,185,6/30/2029,21,8,2,1697,80,18,40
+38,Brennan Johnson,Sayap Kanan,24,"Rp608,36Mlyr.",Crystal Palace,Wales,186,6/30/2030,27,4,0,1285,42,7,52
+39,Yéremy Pino,Sayap Kanan,23,"Rp608,36Mlyr.",Crystal Palace,Spanyol,172,6/30/2030,32,5,5,2320,19,4,52
+40,Kevin Schade,Sayap Kiri,24,"Rp608,36Mlyr.",Brentford,Jerman,185,6/30/2028,25,6,3,2001,5,0,28
+41,Igor Thiago,Depan-Tengah,24,"Rp608,36Mlyr.",Brentford,Brasil,191,6/30/2029,24,17,1,1967,0,0,40
+42,Dango Ouattara,Sayap Kanan,23,"Rp608,36Mlyr.",Brentford,Burkina Faso,177,6/30/2030,20,3,4,1302,38,12,52
+43,Dilane Bakwa,Sayap Kanan,23,"Rp556,21Mlyr.",Nottingham Forest,Prancis,180,6/30/2030,19,1,4,759,6,0,52
+44,Harvey Barnes,Sayap Kiri,28,"Rp556,21Mlyr.",Newcastle,Inggris,182,6/30/2028,35,12,2,1942,1,0,28
+45,Georginio Rutter,Depan-Tengah,23,"Rp556,21Mlyr.",Brighton,Prancis,182,6/30/2028,23,2,3,1524,0,0,28
+46,Tyler Dibling,Sayap Kanan,19,"Rp521,45Mlyr.",Everton,Inggris,178,6/30/2029,16,0,0,509,6,0,40
+47,Thierno Barry,Depan-Tengah,23,"Rp521,45Mlyr.",Everton,Prancis,195,6/30/2029,26,5,0,1433,8,1,40
+48,Mohamed Salah,Sayap Kanan,33,"Rp521,45Mlyr.",Liverpool,Mesir,175,6/30/2027,23,6,5,1858,113,65,16
+49,Mathys Tel,Depan-Tengah,20,"Rp521,45Mlyr.",Spurs,Prancis,183,6/30/2031,21,3,0,759,0,0,64
+50,Ollie Watkins,Depan-Tengah,30,"Rp521,45Mlyr.",Aston Villa,Inggris,180,6/30/2028,33,8,1,2176,20,6,28
+51,Callum Hudson-Odoi,Sayap Kiri,25,"Rp521,45Mlyr.",Nottingham Forest,Inggris,178,6/30/2028,30,5,1,1848,3,0,28
+52,Kevin,Sayap Kiri,23,"Rp521,45Mlyr.",Fulham,Brasil,176,6/30/2030,28,6,6,1538,0,0,52
+53,Kaoru Mitoma,Sayap Kiri,28,"Rp521,45Mlyr.",Brighton,Jepang,178,6/30/2027,14,2,1,939,29,8,16
+54,Richarlison,Depan-Tengah,28,"Rp486,69Mlyr.",Spurs,Brasil,184,6/30/2027,31,8,3,1901,54,20,16
+55,Evann Guessand,Sayap Kanan,24,"Rp486,69Mlyr.",Aston Villa,Pantai Gading,188,6/30/2028,21,2,0,1207,19,3,28
+56,Brajan Gruda,Sayap Kanan,21,"Rp486,69Mlyr.",Brighton,Jerman,178,6/30/2028,20,3,3,896,0,0,28
+57,Jack Grealish,Sayap Kiri,30,"Rp434,54Mlyr.",Everton,Inggris,180,6/30/2026,22,2,6,1723,39,4,4
+58,Randal Kolo Muani,Depan-Tengah,27,"Rp434,54Mlyr.",Spurs,Prancis,187,6/30/2026,24,3,3,1329,31,9,4
+59,Oscar Bobb,Sayap Kanan,22,"Rp434,54Mlyr.",Manchester City,Norwegia,175,6/30/2029,15,0,1,739,16,2,40
+60,Taty Castellanos,Depan-Tengah,27,"Rp434,54Mlyr.",West Ham,Argentina,178,6/30/2030,16,3,3,1118,2,0,52
+61,Lorenzo Lucca,Depan-Tengah,25,"Rp434,54Mlyr.",Nottingham Forest,Italia,201,6/30/2026,23,2,0,595,5,0,4
+62,Alex Iwobi,Sayap Kiri,29,"Rp434,54Mlyr.",Fulham,Nigeria,183,6/30/2028,19,2,2,1479,97,10,28
+63,Rodrigo Muniz,Depan-Tengah,24,"Rp434,54Mlyr.",Fulham,Brasil,186,6/30/2030,9,1,1,382,0,0,52
+64,Joshua Zirkzee,Depan-Tengah,24,"Rp434,54Mlyr.",Manchester United,Belanda,193,6/30/2029,16,2,1,518,6,1,40
+65,Charalampos Kostoulas,Depan-Tengah,18,"Rp434,54Mlyr.",Brighton,Yunani,185,6/30/2030,18,3,1,300,2,0,52
+66,Wilson Odobert,Sayap Kiri,21,"Rp382,40Mlyr.",Spurs,Prancis,182,6/30/2029,30,2,5,1520,0,0,40
+67,Simon Adingra,Sayap Kiri,24,"Rp382,40Mlyr.",Sunderland,Pantai Gading,175,6/30/2030,15,1,1,729,26,4,52
+68,Chemsdine Talbi,Sayap Kanan,20,"Rp382,40Mlyr.",Sunderland,Maroko,175,6/30/2030,17,2,2,932,3,0,52
+69,Crysencio Summerville,Sayap Kiri,24,"Rp382,40Mlyr.",West Ham,Belanda,174,6/30/2029,19,3,4,1448,0,0,40
+70,Tolu Arokodare,Depan-Tengah,25,"Rp382,40Mlyr.",Wolves,Nigeria,197,6/30/2029,27,5,1,965,10,2,40
+71,Tyrique George,Sayap Kiri,19,"Rp382,40Mlyr.",Chelsea,Inggris,181,6/30/2027,11,3,1,492,0,0,16
+72,Eli Kroupi,Depan-Tengah,19,"Rp382,40Mlyr.",Bournemouth,Prancis,179,6/30/2030,20,7,0,869,0,0,52
+73,Stefanos Tzimas,Depan-Tengah,20,"Rp382,40Mlyr.",Brighton,Yunani,186,6/30/2030,13,3,2,339,0,0,52
+74,Leandro Trossard,Sayap Kiri,31,"Rp347,63Mlyr.",Arsenal,Belgia,172,6/30/2027,28,7,7,1658,50,11,16
+75,Gabriel Jesus,Depan-Tengah,28,"Rp347,63Mlyr.",Arsenal,Brasil,175,6/30/2027,14,3,1,486,64,19,16
